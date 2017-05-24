@@ -7,7 +7,7 @@
 
 ##  CSS
 
-### [sass&compass](https://gist.github.com/Syoogool/c9c83a4922d8d277e7b77c55a1b47895)
+### [sass&compass](https://github.com/Syoogool/blog/issues/1)
 ### 
 
 ##  Jquery
