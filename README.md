@@ -27,3 +27,9 @@
 
 ### cmder
 + [**cmder常用命令
+
+## 调试
+1 [console.log](http://www.alloyteam.com/2013/11/console-log/)
+
+## 兼容性
+1. [html5 css3]()
