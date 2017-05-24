@@ -7,7 +7,7 @@
 
 ##  CSS
 
-### [ sass & compass ](https://github.com/Syoogool/blog/issues/1)
+### [ sass & compass ](https://github.com/Syoogool/blog/wiki/Sass-&-Compass)
 ### 
 
 ##  Jquery
@@ -26,5 +26,4 @@
 + [**npm scripts**](http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html)
 
 ### cmder
-+ [**cmder常用命令**]()
-
++ [**cmder常用命令
