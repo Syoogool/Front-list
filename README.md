@@ -8,7 +8,7 @@
 ##  CSS
 
 ### [ sass & compass ](https://github.com/Syoogool/blog/wiki/Sass-&-Compass)
-### [ 字体设置 ]()
+### [ 字体设置 ](https://github.com/Syoogool/blog/wiki/%E5%AD%97%E4%BD%93%E8%AE%BE%E7%BD%AE)
 
 ##  Jquery
 + [**you don't need jquery**](http://youmightnotneedjquery.com/)
