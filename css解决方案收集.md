@@ -1,7 +1,6 @@
 
 - [YOU MIGHT NOT NEED JAVASCRIPT](http://youmightnotneedjs.com/)
 - [26字母](https://yusugomori.com/projects/css-sans/fonts)
-- [nec]
 - [学习CSS布局](http://zh.learnlayout.com/)
 - [纯CSS制作各种图形形](https://segmentfault.com/a/1190000002780453)
 - [nec](http://nec.netease.com/library)
@@ -13,6 +12,9 @@
  
  - [Solved by Flexbox](https://hufan-akari.github.io/solved-by-flexbox/)
  
+ ## sass
+ - [编写稳健、可维护和可扩展的 Sass](https://sass-guidelin.es/zh/)
+ - [sass在线工具](https://www.sassmeister.com/)
  
  ## 文章
  
