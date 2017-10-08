@@ -21,6 +21,9 @@
   
 - [Cnode](https://cnodejs.org/)
   node社区
+  
+  ## demo
+  - [网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=%e5%85%b3%e4%ba%8e%e6%ad%a4%e6%96%87%e6%a1%a3)
 
 ## 检测掌握程度
 - [node.js面试题大全－侧重后端应用与对Node核心的理解)(http://www.cnblogs.com/meteorcn/p/node_mianshiti_interview_question.html)
