@@ -1,4 +1,4 @@
-## 学习资源https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
+## 学习资源
     
     
 - [饿了么大前端 Node.js 进阶教程](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
@@ -27,6 +27,8 @@
 - [Cnode](https://cnodejs.org/)
   node社区
   
+-[REST API 工具](https://segmentfault.com/a/1190000008574028)
+  json-server 用来模拟restful api数据确实是神器
   ## demo
   - [网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=%e5%85%b3%e4%ba%8e%e6%ad%a4%e6%96%87%e6%a1%a3)
 
