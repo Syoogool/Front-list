@@ -3,7 +3,7 @@
 
 - [JavaScript 秘密花园](https://bonsaiden.github.io/JavaScript-Garden/zh/#function.closures)
 - [深入理解javascript原型和闭包系列 -王福朋](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
-- [JavaScript深入系列](https://github.com/mqyqingfeng/Blog)
+- [JavaScript深入系列 -冴羽的博客](https://github.com/mqyqingfeng/Blog)
 - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 - [ECMAScript 6 入门 -阮一峰](http://es6.ruanyifeng.com/)
 
