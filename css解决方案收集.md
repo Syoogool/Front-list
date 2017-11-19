@@ -21,3 +21,4 @@
  
  - [如何只用CSS做到完全居中](http://blog.jobbole.com/46574/)
  - [解读CSS布局之-水平垂直居中](http://web.jobbole.com/83384/)
+ - [CSS居中完整指南](https://www.w3cplus.com/css/centering-css-complete-guide.html)
