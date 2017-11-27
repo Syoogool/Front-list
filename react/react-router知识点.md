@@ -68,8 +68,9 @@
   
   三个props:
   1. match
-  2. location
-     ** 表示当前的位置，要导航到的我地址，访问过的地址**
+  **match对象包含了&lt;Route path&gt;如何与URL匹配的信息**
+  2. location
+  **表示当前的位置，要导航到的我地址，访问过的地址**
      如下是一个location对象实例
      ```javascript
      {
@@ -83,6 +84,7 @@
      }
      ```
   3. history  **实现多种历史对话管理**
+  
    - browser history   HTML5 history在DOM上实现
    - hash history  旧版浏览器 hisroty在DOM上实现
    - memory history  history在内存上实现 用于测试或者非DOM环境
