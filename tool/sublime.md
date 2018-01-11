@@ -4,3 +4,4 @@
 - autofilename 路径提示
 - Emmet
 - SideBarEnhancements 侧边菜单栏（方便引入项目目录）
+- git: gitgutter
