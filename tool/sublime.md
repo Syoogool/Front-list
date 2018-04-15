@@ -8,3 +8,4 @@
 - git: gitgutter
 - vue  Vue Syntax Highlight vue单文件高亮插件
 - CSSREM  个CSS值转REM的Sublime Text插件(自己导入)
+- ......
